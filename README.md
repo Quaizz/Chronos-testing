@@ -1,5 +1,5 @@
-# Chronos-testing
-Testing Chronos using GBM
+# Chronos-Autobnn-testing
+Testing Chronos/Autobnn using GBM
 
 Step 1 is to use fixed mu and sigma of GBM while adding a changing random noise.
 
